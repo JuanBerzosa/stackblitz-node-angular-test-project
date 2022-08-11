@@ -1,0 +1,14 @@
+nav {
+  background: linear-gradient(#69d8cf, #225757);
+  color: #555;
+  display: flex;
+  justify-content: flex-end;
+
+  button {
+    // background-color: #69d8cf;
+
+    &:hover {
+      background-color: #75bdc0;
+    }
+  }
+}
